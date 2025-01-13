@@ -1,0 +1,24 @@
+C:\Users\SCILXXWSXX\Documents\Visual Studio 2010\nichamon\Cafe\Cafe\bin\Debug\Cafe.exe
+C:\Users\SCILXXWSXX\Documents\Visual Studio 2010\nichamon\Cafe\Cafe\bin\Debug\Cafe.pdb
+C:\Users\SCILXXWSXX\Documents\Visual Studio 2010\nichamon\Cafe\Cafe\obj\x86\Debug\Cafe.Form1.resources
+C:\Users\SCILXXWSXX\Documents\Visual Studio 2010\nichamon\Cafe\Cafe\obj\x86\Debug\Cafe.Properties.Resources.resources
+C:\Users\SCILXXWSXX\Documents\Visual Studio 2010\nichamon\Cafe\Cafe\obj\x86\Debug\Cafe.csproj.GenerateResource.Cache
+C:\Users\SCILXXWSXX\Documents\Visual Studio 2010\nichamon\Cafe\Cafe\obj\x86\Debug\Cafe.exe
+C:\Users\SCILXXWSXX\Documents\Visual Studio 2010\nichamon\Cafe\Cafe\obj\x86\Debug\Cafe.pdb
+C:\Users\SCILXXWSXX\Documents\Visual Studio 2010\navapon\Cafe\Cafe\obj\x86\Debug\Cafe.exe
+C:\Users\SCILXXWSXX\Documents\Visual Studio 2010\navapon\Cafe\Cafe\obj\x86\Debug\Cafe.pdb
+C:\Users\SCILXXWSXX\Documents\Visual Studio 2010\navapon\Cafe\Cafe\bin\Debug\Cafe.exe
+C:\Users\SCILXXWSXX\Documents\Visual Studio 2010\navapon\Cafe\Cafe\bin\Debug\Cafe.pdb
+C:\Users\SCILXXWSXX\Documents\Visual Studio 2010\navapon\Cafe\Cafe\obj\x86\Debug\Cafe.Form1.resources
+C:\Users\SCILXXWSXX\Documents\Visual Studio 2010\navapon\Cafe\Cafe\obj\x86\Debug\Cafe.Properties.Resources.resources
+C:\Users\SCILXXWSXX\Documents\Visual Studio 2010\navapon\Cafe\Cafe\obj\x86\Debug\Cafe.csproj.GenerateResource.Cache
+G:\My Drive\Microsoft Visual Studio\C# From\Cafe\Cafe\bin\Debug\Cafe.exe.config
+G:\My Drive\Microsoft Visual Studio\C# From\Cafe\Cafe\bin\Debug\Cafe.exe
+G:\My Drive\Microsoft Visual Studio\C# From\Cafe\Cafe\bin\Debug\Cafe.pdb
+G:\My Drive\Microsoft Visual Studio\C# From\Cafe\Cafe\obj\x86\Debug\Cafe.csproj.AssemblyReference.cache
+G:\My Drive\Microsoft Visual Studio\C# From\Cafe\Cafe\obj\x86\Debug\Cafe.Form1.resources
+G:\My Drive\Microsoft Visual Studio\C# From\Cafe\Cafe\obj\x86\Debug\Cafe.Properties.Resources.resources
+G:\My Drive\Microsoft Visual Studio\C# From\Cafe\Cafe\obj\x86\Debug\Cafe.csproj.GenerateResource.cache
+G:\My Drive\Microsoft Visual Studio\C# From\Cafe\Cafe\obj\x86\Debug\Cafe.csproj.CoreCompileInputs.cache
+G:\My Drive\Microsoft Visual Studio\C# From\Cafe\Cafe\obj\x86\Debug\Cafe.exe
+G:\My Drive\Microsoft Visual Studio\C# From\Cafe\Cafe\obj\x86\Debug\Cafe.pdb
